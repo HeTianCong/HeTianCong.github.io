@@ -1,4 +1,4 @@
-# [HeTianCong.github.io](hetiancong.github.io)
+# [HeTianCong.github.io](http://hetiancong.github.io)
 
 ### My website
 
