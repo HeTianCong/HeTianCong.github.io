@@ -1,4 +1,5 @@
-# HeTianCong.github.io
+# [HeTianCong.github.io](hetiancong.github.io)
+
 ### My website
 
 Change the domain name from
